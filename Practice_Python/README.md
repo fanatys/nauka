@@ -1,0 +1,1 @@
+All solutions for exercises here are from https://www.practicepython.org/ page.
